@@ -1,7 +1,7 @@
 const pi = 3.14;
 let idade = 20;
 idade = 21;
-//Variavéis do Tipo "Const" Você não pode alterar o ela. Já a Let pode.
+//Variavéis do Tipo "Const" Você não pode alterar ela. Já a Let pode.
 /* 
 Exemplo Certo:
 let idade = 20;
