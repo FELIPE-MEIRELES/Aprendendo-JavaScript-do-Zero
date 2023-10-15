@@ -6,5 +6,5 @@ if (numeropar) {
 }
 
 if (!numeropar) {
-    console.log("Esse número é Ímpar")
+    console.log("Esse número é impar")
 }
