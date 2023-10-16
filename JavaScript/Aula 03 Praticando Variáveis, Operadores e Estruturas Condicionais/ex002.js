@@ -8,7 +8,7 @@ acima de 40 Obesidade Grave
 */
 const altura = 1.80;
 const peso = 75;
-const imc = peso / (altura + altura)
+const imc = peso / (altura * altura)
 
 if (imc < 18.5) {
     console.log("Abaixo do Peso")
