@@ -7,9 +7,11 @@ Você Terá 3 Variáveis, Sendo Elas:
 
 Imprima no console o valor que será gasto de combustível para realizar essa viagem.*/
 
-const combustivel = 5.79;
-const media = 10;
-const km = 100;
-valor = (km / media) * combustivel
-console.log(valor)
+const combustivel = 5;
+const gastomedio = 10;
+const viagemkm = 100;
+
+const resultado = (viagemkm / gastomedio) * combustivel;
+
+console.log("R$"+resultado)
 
